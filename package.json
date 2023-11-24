@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bent": "^7.3.12",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.1",
+    "fs": "^0.0.1-security",
+    "provide-js": "^1.10.0",
+    "thor-devkit": "^2.0.9"
+  }
+}
